@@ -7,7 +7,7 @@ The projects are developed using web technologies such as HTML, CSS, and JavaScr
 
 ## 📁 Projects Included
 
-### 🔹 Task 3: Build Your Own Portfolio Site
+### 🔹 Task 3: Build Your Portfolio Site
 A personal portfolio website designed to showcase skills, projects, resume, and contact information.
 
 #### Features
