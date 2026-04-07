@@ -24,7 +24,7 @@ A personal portfolio website designed to showcase skills, projects, resume, and 
 
 
 
----
+-----
 
 ### 🔹 Task 4: Music Player using JavaScript
 A web-based music player application with interactive audio controls.
